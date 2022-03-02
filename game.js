@@ -130,7 +130,7 @@
         ],
     rotatation : 0,
     x : 50,
-    y :100,
+    y : 50,
     speed : 0,
     gravity : .125,
     thrust : 3.6,
